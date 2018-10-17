@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Roboto');
+*{box-sizing: border-box;}
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    margin: 0;
+}
